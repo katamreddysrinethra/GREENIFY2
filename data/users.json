@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": "USR0001",
+        "name": "Srinethra",
+        "email": "katamreddysrinethra@gmail.com",
+        "password": "$2b$12$uAoYOYV1qOWJIiw3z7dYqet35ZycJ/ieIMPg2M09S9C5ot3P5SeY.",
+        "role": "Waste Collector",
+        "address": "oulikyjhgf",
+        "mobile": "09876542345",
+        "green_points": 0,
+        "badges": [],
+        "created_at": "2026-06-16 08:52:36"
+    },
+    {
+        "user_id": "USR0002",
+        "name": "Katamreddy",
+        "email": "srinethrakatamreddy@gmail.com",
+        "password": "$2b$12$Rqbajcw8FpShZUqtpJ.1YuIH5YRx1Bd2lzeb9Fo1w7fibMBgRLv.K",
+        "role": "Market Partner",
+        "address": "xcvbn",
+        "mobile": "34567899976",
+        "green_points": 0,
+        "badges": [],
+        "created_at": "2026-06-16 08:54:09"
+    }
+]

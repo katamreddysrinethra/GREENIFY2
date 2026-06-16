@@ -1,0 +1,12 @@
+[
+    {
+        "purchase_id": 1,
+        "inventory_id": 1,
+        "collector_name": "Srinethra",
+        "market_partner": "Katamreddy",
+        "waste_type": "Glass",
+        "quantity": 1.0,
+        "price": 1.0,
+        "total_price": 1.0
+    }
+]
