@@ -68,7 +68,8 @@ def show_create_listing():
                 "Metal",
                 "Organic Waste",
                 "E-Waste",
-                "Mixed Waste"
+                "Mixed Waste",
+                "Other"
             ]
         )
 

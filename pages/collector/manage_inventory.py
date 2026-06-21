@@ -33,7 +33,8 @@ def show_manage_inventory():
             "Glass",
             "Metal",
             "E-Waste",
-            "Organic"
+            "Organic",
+            "Other"
         ]
     )
 

@@ -67,14 +67,15 @@ def show_pickup_request():
                 "Organic Waste",
                 "E-Waste",
                 "Mixed Waste",
-                "Hazardous Waste"
+                "Hazardous Waste",
+                "Other"
             ]
         )
 
         quantity = st.number_input(
             "⚖ Quantity (KG)",
-            min_value=1.0,
-            step=0.5
+            min_value=0.0,
+            step=0.1
         )
 
         address = st.text_area(
